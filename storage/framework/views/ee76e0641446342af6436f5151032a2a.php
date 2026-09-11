@@ -1,0 +1,2 @@
+<?php echo $__env->make(Theme::getThemeNamespace('views.ecommerce.includes.product-items' . (request()->get('layout') == 'list' ? '-list' : '-grid')), array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
+<?php /**PATH /var/www/dev.amatullah.bd/platform/themes/amatullah/views/ecommerce/includes/product-items.blade.php ENDPATH**/ ?>

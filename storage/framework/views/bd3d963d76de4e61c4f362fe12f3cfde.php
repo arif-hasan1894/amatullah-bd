@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/dev.amatullah.bd/platform/core/base/resources/views/system/license-invalid.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/dev.amatullah.bd/platform/plugins/ecommerce/resources/views/settings/additional-cod-settings.blade.php ENDPATH**/ ?>
